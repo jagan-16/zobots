@@ -1,0 +1,5 @@
+{
+  "name": "Consulting Services Chatbot",
+  "description": "A production-ready chatbot widget for booking, rescheduling, and managing consulting appointments. Features service selection, OTP verification, calendar scheduling, and an admin dashboard.",
+  "requestFramePermissions": []
+}
